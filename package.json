@@ -61,8 +61,8 @@
     "prism-react-renderer": "^1.1.1",
     "prismjs": "^1.23.0",
     "qs": "6.9.4",
-    "react": "17.0.1",
-    "react-dom": "17.0.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
     "react-intersection-observer": "8.27.1",
     "react-live": "2.2.3",
     "react-query": "2.25.2",
@@ -119,8 +119,8 @@
     "url": "https://github.com/MaximeHeckel/blog.maximeheckel.com"
   },
   "resolutions": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
   },
   "jest": {
     "snapshotSerializers": [
