@@ -75,7 +75,7 @@
     "unist-util-visit-parents": "3.1.1"
   },
   "devDependencies": {
-    "@babel/core": "7.12.10",
+    "@babel/core": "7.16.0",
     "@cypress/snapshot": "2.1.7",
     "@emotion/babel-plugin": "11.3.0",
     "@emotion/jest": "11.2.0",
@@ -119,8 +119,8 @@
     "url": "https://github.com/MaximeHeckel/blog.maximeheckel.com"
   },
   "resolutions": {
-    "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "jest": {
     "snapshotSerializers": [
